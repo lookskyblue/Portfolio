@@ -13,7 +13,7 @@
  * 이메일: lookskyblue111@gmail.com
  * Github: [lookskyblue](https://github.com/lookskyblue?tab=repositories)
 
-# Personal Experiences
+# Personal Project
 
 ### Game
 * ```2020-12-11``` [Omock](https://github.com/lookskyblue/Omok):  Renju룰을 반영하여 만든 오목게임 (Console).
@@ -25,5 +25,10 @@
 
 
 ### Web
-* ```2020-12-21``` [Movie App Site](https://github.com/lookskyblue/movie_app_2020): REACT, HTML, JS, CSS 를 활용하여 만든 영화소개 웹사이트
+* ```2020-12-21``` [Movie App Site](https://github.com/lookskyblue/movie_app_2020): REACT, HTML, JS, CSS 를 활용하여 만든 영화소개 웹사이트 
 
+
+# Team Project   
+
+### Web
+* ```2020-12-12``` [ZARI](https://github.com/lookskyblue/zari): REACT, HTML, JS, CSS를 활용하여 만든 매장 소개 웹사이트
