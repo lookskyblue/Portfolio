@@ -20,17 +20,17 @@
 ### Unity
 * 추후 업데이트 예정
 
-### &nbsp; WinAPI
+&nbsp; &nbsp; ### WinAPI
 * ```2021-02-07``` [Aboid Boxes](https://github.com/lookskyblue/Avoid_Boxes/blob/master/README.md): 박스 피하기 게임 (WinAPI)
 * ```2021-02-11``` [T-Rex-Runner](https://github.com/lookskyblue/T-Rex-Runner): 티렉스 러너 (구글 게임을 모방해서 만듦) (WinAPI)
 * ```2021-02-15``` [ShootingGame_Demo](https://github.com/lookskyblue/ShootingGame_Demo): 슈팅게임 데모버전 (WinAPI)
 * ```2021-02-16``` [Cross Road](https://github.com/lookskyblue/CrossRoad):길건너기 게임 (WinAPI)
 
-### Console
+&nbsp; &nbsp; ### Console
 * ```2020-12-11``` [Omock](https://github.com/lookskyblue/Omok):  Renju룰을 반영하여 만든 오목게임 (Console).
 * ```2021-01-05``` [Tetis](https://github.com/lookskyblue/Tetris): 테트리스 게임 (Console)
 
-### Web
+&nbsp; &nbsp; ### Web
 * ```2020-12-21``` [Movie App Site](https://github.com/lookskyblue/movie_app_2020): REACT, HTML, JS, CSS 를 활용하여 만든 영화소개 웹사이트 
 
 <br/>
