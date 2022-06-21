@@ -37,5 +37,5 @@
 * ```2020-12-12``` [ZARI](https://github.com/lookskyblue/zari): REACT, HTML, JS, CSS를 활용하여 만든 매장 소개 웹사이트
 
 # Algorithm
-* 백준 문제 푼 것: https://github.com/lookskyblue/Portfolio/edit/main/README.md
+* 백준 문제 푼 것: [https://github.com/lookskyblue/Portfolio/edit/main/README.md](https://github.com/lookskyblue/Backjoon/tree/main/%EB%B0%B1%EC%A4%80)
 
