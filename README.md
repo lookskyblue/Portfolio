@@ -36,7 +36,7 @@
 
 # Team Project   
 
-### Game
+### Unity
 * ```2021-06-09``` [RPG game_Prototype](https://youtu.be/4HStwtlzHdM): 유니티와 스케치업을 사용한 오픈월드 방식의 퀘스트형 RPG 게임 (프로토타입)
 
 ### Web
