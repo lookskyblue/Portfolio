@@ -17,7 +17,7 @@
 
 ## Game
 
-<span style="color:red"> Unity </span>
+<span style="color:red">Unity</span>
 * 추후 업데이트 예정
 
  WinAPI
