@@ -1,5 +1,5 @@
 # 김우성 (lookskyblue)
-<span style="color:red">빨간 글씨</span>
+
 ## Introduction
 안녕하세요.
 게임 프로그래머를 꿈꾸는 컴퓨터공학과 학생입니다.
