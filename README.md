@@ -17,9 +17,9 @@
 
 ### Game
 
- #### Unity
- #### WinAPI
- #### Console
+ ##### Unity
+ ##### WinAPI
+ ##### Console
 
 * ```2020-12-11``` [Omock](https://github.com/lookskyblue/Omok):  Renju룰을 반영하여 만든 오목게임 (Console).
 * ```2021-01-05``` [Tetis](https://github.com/lookskyblue/Tetris): 테트리스 게임 (Console)
