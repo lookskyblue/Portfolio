@@ -1,8 +1,9 @@
 # 김우성 (lookskyblue)
 
 ## Introduction
-안녕하세요.'\n'
- 게임 만드는 것을 좋아하는 게임 프로그래머 입니다.
+안녕하세요.
+
+게임 만드는 것을 좋아하는 게임 프로그래머 입니다.
 
 # Contacts
  * 이메일: lookskyblue111@gmail.com
