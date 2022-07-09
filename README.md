@@ -11,7 +11,7 @@
 
 # Personal Project
 ### Unity
-* 추후 업데이트 예정
+* ```2022-06-27``` [가명: 슬래셔](https://github.com/lookskyblue/Slasher) (Unity3D)
  
 ### WinAPI
 * ```2021-02-07``` [Aboid Boxes](https://github.com/lookskyblue/Avoid_Boxes/blob/master/README.md): 박스 피하기 게임 (WinAPI)
