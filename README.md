@@ -27,10 +27,6 @@
 * ```2021-12-20``` [Updown Game](https://github.com/lookskyblue/UpDownGame): 간단한 업다운 웹게임
 * ```2020-12-21``` [Movie App Site](https://github.com/lookskyblue/movie_app_2020): REACT, HTML, JS, CSS 를 활용하여 만든 영화소개 웹사이트 
 
-<br/>
-<br/>
-<br/>
-
 # Team Project   
 
 ### ✔ Unity
