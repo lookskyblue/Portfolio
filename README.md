@@ -33,12 +33,12 @@
 
 # Team Project   
 
-### Unity
+### ✔ Unity
 * ```2022-05-04``` [캐치노리](https://github.com/lookskyblue/CatchNori): VR을 이용하여 특정 카드를 찾아서 NFT를 획득하는 어플리케이션
 * ```2022-04-30``` [메타노리](https://github.com/lookskyblue/MetaNori): 교육 및 상담용 메타버스 프로그램
 * ```2021-06-09``` [RPG game_Prototype](https://youtu.be/4HStwtlzHdM): 유니티와 스케치업을 사용한 오픈월드 방식의 퀘스트형 RPG 게임
 
-### Web
+### ✔ Web
 * ```2020-12-12``` [ZARI](https://github.com/lookskyblue/zari): REACT, HTML, JS, CSS를 활용하여 만든 매장 소개 웹사이트
 
 # Algorithm
