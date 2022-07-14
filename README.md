@@ -34,7 +34,7 @@
 # Team Project   
 
 ### Unity
-* ```2021-06-09``` [RPG game_Prototype](https://youtu.be/4HStwtlzHdM): 유니티와 스케치업을 사용한 오픈월드 방식의 퀘스트형 RPG 게임 (프로토타입)
+* ```2021-06-09``` [RPG game_Prototype](https://youtu.be/4HStwtlzHdM): 유니티와 스케치업을 사용한 오픈월드 방식의 퀘스트형 RPG 게임
 
 ### Web
 * ```2020-12-12``` [ZARI](https://github.com/lookskyblue/zari): REACT, HTML, JS, CSS를 활용하여 만든 매장 소개 웹사이트
